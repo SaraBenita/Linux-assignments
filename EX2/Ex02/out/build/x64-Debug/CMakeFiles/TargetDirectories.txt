@@ -1,0 +1,4 @@
+C:/Users/user/מדעי המחשב/מדעי המחשב- שרה בניטה/שנה ב/‏‏סמסטר ב/לינוקס/מטלה 2/מטלה סופית/Ex02/Ex02/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/user/מדעי המחשב/מדעי המחשב- שרה בניטה/שנה ב/‏‏סמסטר ב/לינוקס/מטלה 2/מטלה סופית/Ex02/Ex02/out/build/x64-Debug/CMakeFiles/runMe.dir
+C:/Users/user/מדעי המחשב/מדעי המחשב- שרה בניטה/שנה ב/‏‏סמסטר ב/לינוקס/מטלה 2/מטלה סופית/Ex02/Ex02/out/build/x64-Debug/CMakeFiles/Utility.dir
+C:/Users/user/מדעי המחשב/מדעי המחשב- שרה בניטה/שנה ב/‏‏סמסטר ב/לינוקס/מטלה 2/מטלה סופית/Ex02/Ex02/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

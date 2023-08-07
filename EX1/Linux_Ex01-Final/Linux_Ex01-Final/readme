@@ -1,0 +1,37 @@
+Linux Exercise 1
+
+Instrutctions:
+In terminal, Go to the folder containing all project files (1 folder contains it all), make sure all files stay in the same directory
+
+Instructions to run Script:
+In terminal, make the script executable by typing "chmod u+x Script.sh"
+and to run it, type "./Script xxx" (xxx=airport or aircraft)
+note: multiple airports/aircrafts are allowed, seperated by space.
+Expect to a message of success or failure for each (depends on the input)
+
+Instructions to run executables:
+important: after compilation and before executing the .out file,
+type this command: "export LD_LIBRARY_PATH=."
+
+
+Instructions to run Program 1:
+In terminal, execute "make all" or "make arrivals.out"
+and then "./arrivals.out xxx" (xxx=airport)
+
+Instructions to run Program 2:
+In terminal, execute "make all" or "make full_schedule.out"
+and then "./full_schedule.out xxx" (xxx=airport)
+note: multiple airports are not allowed,
+for more than 1 argument only the first will be checked.
+
+Instructions to run Program 3:
+In terminal, execute "make all" or "make airplane.out"
+and then "./airplane.out xxx" (xxx=aircraft)
+note: multiple aircrafts are allowed, seperated by space.
+
+Instructions to run Program 4:
+In terminal, execute "make all" or "make update.out"
+and then "./update.out xxx" (xxx=airport)
+Note: The program is looking for folders inside the same folder that answer the following requirements:
+Name consisted from letters only (a-zA-Z) AND name is 4 letters long
+For each folder it finds, the program removes it before rerunning the script (to avoid ambiguity errors)

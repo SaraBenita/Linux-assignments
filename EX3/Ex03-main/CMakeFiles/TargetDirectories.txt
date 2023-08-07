@@ -1,0 +1,5 @@
+/home/daniel/Ex03/CMakeFiles/flightsService.dir
+/home/daniel/Ex03/CMakeFiles/dbService.dir
+/home/daniel/Ex03/CMakeFiles/Utility.dir
+/home/daniel/Ex03/CMakeFiles/edit_cache.dir
+/home/daniel/Ex03/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Build and run",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/flightsService",
+            "args": [""],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false
+        }
+    ]
+}

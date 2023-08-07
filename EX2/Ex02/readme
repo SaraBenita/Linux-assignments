@@ -1,0 +1,16 @@
+
+Note:
+Make sure libzip library installed on the machine before execution.
+
+Extract Instructions:
+Extract the folder "Ex02", the folder should contain:
+CMakeLists.txt (file), Script.sh (bash script), Cpp files, Headers and Library (all folders that contain cpp/h files).
+
+Compilation Instructions:
+1. Navigate using the terminal to the folder "Ex02"
+2. Run the following command in this order: "chmod u+x Script.sh", "cmake CMakeLists.txt", "make"
+
+Notes:
+In options 1-3, the data will be fetched from the local database if possible (to prevent multiple api requests).
+If the user wants to get updated data, it is needed to choose the update option and then restart the program.
+(A message is appeared to the users explaining this on options 1-3)

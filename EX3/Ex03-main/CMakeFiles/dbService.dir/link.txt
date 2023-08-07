@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/dbService.dir/Cpp_files/dbService.cpp.o -o dbService  -Wl,-rpath,/home/daniel/Ex03 libUtility.so /usr/lib/x86_64-linux-gnu/libzip.so 
