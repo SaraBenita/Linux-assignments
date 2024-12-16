@@ -38,7 +38,7 @@ This project implements a multi-process flight service program, designed to mana
 ---
 
 ## Technologies Used
-1. **C Programming**:
+1. **C++ Programming**:
    - Multi-process management using `fork`.
    - Communication through pipes.
    - Signal handling for graceful exit.
@@ -75,11 +75,3 @@ Execute the program to start the main process: ./flight_service
 - Manage large datasets efficiently using in-memory structures.
 
 A readme file is attached to the directory, providing detailed instructions on how to run the assignment.
-
-
-
-
-
-
-
-
