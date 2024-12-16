@@ -66,3 +66,5 @@ The containers communicate via a **named pipe**, and the application supports en
 - Ensure Docker is installed and running on your system.
 - The application is designed for Linux environments.
 - Handle edge cases such as invalid inputs or API failures during data fetching.
+
+A readme file is attached to the directory, providing detailed instructions on how to run the assignment.
