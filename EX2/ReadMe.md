@@ -55,16 +55,16 @@ This project implements a multi-process flight service program, designed to mana
 1. **Clone the Repository**:
    git clone <repository-url>
    cd <repository-directory>
-2. **Build the Project:
+2. **Build the Project**:
    Use CMake to compile the program: make
-3. **Run the Program:
+3. **Run the Program**:
 Execute the program to start the main process: ./flight_service
-4. **Interact with the Program:
+4. **Interact with the Program**:
 - Use the menu options to perform operations:
     -Retrieve flight data for airports.
     -Retrieve schedules or flights by aircraft.
     -Update the database or zip the data files.
-5. **Graceful Exit:
+5. **Graceful Exit**:
 -To terminate the program, send SIGUSR1 or SIGINT (Ctrl+C):
   -The child process will zip the database and exit.
 
