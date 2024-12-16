@@ -42,7 +42,7 @@ get_flights_by_airport_name: Retrieve flights by airport.
 get_flights_by_callsign: Retrieve flights by aircraft callsign.
 rerun_script: Re-execute the Bash script to update the database.
 
-# Standalone Programs
+## Standalone Programs
 1. Flights by Airports:
 Lists all flights departing from specified airports along with their details.
 #### Usage:
