@@ -38,7 +38,7 @@ The containers communicate via a **named pipe**, and the application supports en
    - Used for inter-process communication between the containers.
 3. **Bash Scripting**:
    - Automated the setup and initialization of the containers.
-4. **C Programming**:
+4. **C++ Programming**:
    - Modified the original program for containerized execution.
 5. **Networking**:
    - Integrated airport data fetching via an online API.
